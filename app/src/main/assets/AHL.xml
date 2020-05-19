@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sever_address" value = "ws://121.41.100.186:10086/wsServices">SeverAddress</string>
+</resources>

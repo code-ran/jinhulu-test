@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_projiect_para"
+            android:title="基本参数" />
+        <item
+            android:id="@+id/nav_realtime_structure"
+            android:title="数据结构" />
+        <item
+            android:id="@+id/nav_realtime_table"
+            android:title="数据表记录" />
+    </group>
+
+</menu>
